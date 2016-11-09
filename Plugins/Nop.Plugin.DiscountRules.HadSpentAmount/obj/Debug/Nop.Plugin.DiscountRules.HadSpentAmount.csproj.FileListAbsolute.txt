@@ -1,0 +1,10 @@
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Views\DiscountRulesHadSpentAmount\Configure.cshtml
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Description.txt
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\web.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\logo.jpg
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.csproj.App.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.pdb

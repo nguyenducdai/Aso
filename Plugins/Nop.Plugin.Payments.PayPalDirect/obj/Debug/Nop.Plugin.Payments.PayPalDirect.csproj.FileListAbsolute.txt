@@ -1,0 +1,12 @@
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\Configure.cshtml
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\PaymentInfo.cshtml
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csproj.App.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

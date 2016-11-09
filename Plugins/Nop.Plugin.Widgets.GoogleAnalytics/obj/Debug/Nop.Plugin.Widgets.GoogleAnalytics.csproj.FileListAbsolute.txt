@@ -1,0 +1,10 @@
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\WidgetsGoogleAnalytics\Configure.cshtml
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\web.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Description.txt
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csproj.App.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb

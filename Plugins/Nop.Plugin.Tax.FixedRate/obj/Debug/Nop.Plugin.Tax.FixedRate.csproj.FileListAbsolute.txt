@@ -1,0 +1,11 @@
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Tax.FixedRate\Description.txt
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Tax.FixedRate\web.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Tax.FixedRate\Views\TaxFixedRate\Configure.cshtml
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Tax.FixedRate\logo.jpg
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Tax.FixedRate\Nop.Plugin.Tax.FixedRate.pdb
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.csproj.App.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.csprojResolveAssemblyReference.cache
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.pdb

@@ -1,0 +1,11 @@
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
