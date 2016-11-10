@@ -10,3 +10,15 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Pl
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\PaymentInfo.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

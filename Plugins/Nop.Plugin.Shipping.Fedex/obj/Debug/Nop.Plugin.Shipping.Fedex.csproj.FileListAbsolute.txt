@@ -8,3 +8,14 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\N
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csproj.App.config
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\ShippingFedex\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.Fedex\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.Fedex\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.Fedex\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojResolveAssemblyReference.cache
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb

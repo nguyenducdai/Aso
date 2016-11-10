@@ -12,3 +12,17 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Pl
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\EditPopup.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\_CreateOrUpdate.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\AddPopup.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb

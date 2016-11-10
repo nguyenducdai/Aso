@@ -8,3 +8,13 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\N
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csproj.App.config
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Views\ShippingFixedRate\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugin.Shipping.FixedRateShipping.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb

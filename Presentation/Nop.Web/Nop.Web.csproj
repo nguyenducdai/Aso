@@ -501,6 +501,7 @@
     <Content Include="Content\files\ExportImport\Index.htm" />
     <Content Include="Content\files\Index.htm" />
     <Content Include="Content\Images\default-image.png" />
+    <Content Include="Content\install\bootstrap.min.css" />
     <Content Include="Content\jquery-ui-themes\smoothness\images\animated-overlay.gif" />
     <Content Include="Content\jquery-ui-themes\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\jquery-ui-themes\smoothness\images\ui-bg_flat_75_ffffff_40x100.png" />
@@ -596,6 +597,7 @@
     <Content Include="Content\samples\product_WomenTShirt.jpg" />
     <Content Include="Content\samples\p_attribute_print_1.jpg" />
     <Content Include="Content\samples\p_attribute_print_2.jpg" />
+    <Content Include="Scripts\bootstrap.min.css" />
     <Content Include="Scripts\fineuploader\edit.gif" />
     <Content Include="Scripts\fineuploader\fineuploader-4.2.2.css" />
     <Content Include="Scripts\fineuploader\fineuploader-4.2.2.min.css" />
@@ -627,7 +629,9 @@
     <Content Include="Scripts\selectivizr.min.js" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <None Include="Scripts\_references.js" />
+    <Content Include="Themes\DefaultClean\Content\css\bootstrap.min.css" />
     <Content Include="Themes\DefaultClean\Content\css\ie8.css" />
+    <Content Include="Themes\DefaultClean\Content\css\site.css" />
     <Content Include="Themes\DefaultClean\Content\css\styles.css" />
     <Content Include="Themes\DefaultClean\Content\css\styles.rtl.css" />
     <Content Include="Themes\DefaultClean\Content\images\ajax-loader-small.gif" />
@@ -1119,7 +1123,6 @@
     <Content Include="Views\Newsletter\SubscriptionActivation.cshtml" />
     <Content Include="Views\Customer\AccountActivation.cshtml" />
     <Content Include="Views\Common\ContactUs.cshtml" />
-    <Content Include="Views\Common\CurrencySelector.cshtml" />
     <Content Include="Views\Common\HeaderLinks.cshtml" />
     <Content Include="Views\Common\LanguageSelector.cshtml" />
     <Content Include="Views\Catalog\TopMenu.cshtml" />

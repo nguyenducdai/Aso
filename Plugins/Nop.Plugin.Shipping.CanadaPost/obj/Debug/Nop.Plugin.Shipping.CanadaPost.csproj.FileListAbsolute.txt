@@ -8,3 +8,13 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\N
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojResolveAssemblyReference.cache
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Views\ShippingCanadaPost\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojResolveAssemblyReference.cache
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb

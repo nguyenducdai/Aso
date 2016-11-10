@@ -232,8 +232,7 @@ namespace Nop.Web.Controllers
         }
 
         //language
-        //[ChildActionOnly]
-        /*
+       [ChildActionOnly]
         public ActionResult LanguageSelector()
         {
             var availableLanguages = _cacheManager.Get(string.Format(ModelCacheEventConsumer.AVAILABLE_LANGUAGES_MODEL_KEY, _storeContext.CurrentStore.Id), () =>
@@ -261,7 +260,7 @@ namespace Nop.Web.Controllers
                 Content("");
 
             return PartialView(model);
-        }*/
+        }
         //available even when a store is closed
         [StoreClosed(true)]
         //available even when navigation is not allowed
@@ -298,7 +297,7 @@ namespace Nop.Web.Controllers
 
         //currency
         [ChildActionOnly]
-        public ActionResult CurrencySelector()
+         public ActionResult CurrencySelector()
         {
             var availableCurrencies = _cacheManager.Get(string.Format(ModelCacheEventConsumer.AVAILABLE_CURRENCIES_MODEL_KEY, _workContext.WorkingLanguage.Id, _storeContext.CurrentStore.Id), () =>
             {

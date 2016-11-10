@@ -9,3 +9,15 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\N
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.csproj.App.config
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Views\DiscountRulesHasAllProducts\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Views\DiscountRulesHasAllProducts\ProductAddPopup.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.csprojResolveAssemblyReference.cache
+E:\Asp.net\Aso\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.pdb

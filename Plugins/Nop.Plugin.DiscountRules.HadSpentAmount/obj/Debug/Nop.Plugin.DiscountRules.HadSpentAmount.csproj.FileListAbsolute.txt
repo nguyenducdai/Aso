@@ -8,3 +8,14 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\N
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.csproj.App.config
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Views\DiscountRulesHadSpentAmount\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.csprojResolveAssemblyReference.cache

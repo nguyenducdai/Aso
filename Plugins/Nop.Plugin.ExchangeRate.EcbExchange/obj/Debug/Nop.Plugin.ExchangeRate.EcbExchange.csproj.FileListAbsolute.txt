@@ -7,3 +7,12 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Pl
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+E:\Asp.net\Aso\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

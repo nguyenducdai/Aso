@@ -33,3 +33,38 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\N
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csproj.App.config
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner1.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\sample-images\banner2.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\custom\arrows.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\custom\bullets.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\custom\custom.css
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\custom\loading.gif
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Views\WidgetsNivoSlider\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Views\WidgetsNivoSlider\PublicInfo.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\nivo-slider.css
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\arrows.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bar.css
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\bullets.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\bar\loading.gif
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\arrows.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\bullets.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\dark.css
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\dark\loading.gif
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\arrows.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\bullets.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\default.css
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\default\loading.gif
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\arrows.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\bullets.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\light.css
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Content\nivoslider\themes\light\loading.gif
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Scripts\jquery.nivo.slider.js
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb

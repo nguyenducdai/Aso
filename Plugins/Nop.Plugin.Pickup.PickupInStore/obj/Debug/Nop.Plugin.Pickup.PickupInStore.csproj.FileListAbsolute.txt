@@ -11,3 +11,16 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\N
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\Create.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\Edit.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\PickupInStore\_CreateOrUpdate.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.pdb

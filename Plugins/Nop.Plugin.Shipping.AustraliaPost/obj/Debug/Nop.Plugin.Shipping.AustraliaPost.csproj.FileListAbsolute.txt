@@ -9,3 +9,14 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Pl
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\ShippingAustraliaPost\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb

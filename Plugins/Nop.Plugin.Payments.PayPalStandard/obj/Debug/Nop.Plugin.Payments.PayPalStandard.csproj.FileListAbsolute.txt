@@ -9,3 +9,14 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Presentation\N
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

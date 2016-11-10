@@ -12,3 +12,17 @@ C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Pl
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
 C:\Users\blackheart\Documents\Visual Studio 2015\Projects\nopTest\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\Configure.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\PublicInfo.cshtml
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\web.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll.config
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csproj.App.config
+E:\Asp.net\Aso\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
+E:\Asp.net\Aso\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
+E:\Asp.net\Aso\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb
