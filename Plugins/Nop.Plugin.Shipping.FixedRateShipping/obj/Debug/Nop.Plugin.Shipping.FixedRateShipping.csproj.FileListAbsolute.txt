@@ -18,3 +18,4 @@ E:\Asp.net\Aso\Presentation\Nop.Web\Plugins\Shipping.FixedRateShipping\Nop.Plugi
 E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csproj.App.config
 E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.dll
 E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.pdb
+E:\Asp.net\Aso\Plugins\Nop.Plugin.Shipping.FixedRateShipping\obj\Debug\Nop.Plugin.Shipping.FixedRateShipping.csprojResolveAssemblyReference.cache

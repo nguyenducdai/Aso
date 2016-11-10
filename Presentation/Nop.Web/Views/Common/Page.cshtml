@@ -1,0 +1,19 @@
+﻿@model FooterModel
+@using Nop.Core
+@using Nop.Core.Domain.Tax
+@using Nop.Core.Infrastructure
+@using Nop.Web.Models.Common;
+
+<ul class="nav navbar-nav">
+    @if (Model.SitemapEnabled)
+    {
+        <li><a href="@Url.RouteUrl("Sitemap")">@T("Sitemap")</a></li>
+    }
+    @foreach (var topic in Model.Topics.Where(x => x.IncludeInFooterColumn1).ToList())
+    {
+        <li><a href="@Url.RouteUrl("Topic", new { SeName = topic.SeName })">@topic.Name</a></li>
+    }
+    <li><a href="@Url.RouteUrl("ContactUs")">@T("ContactUs")</a></li>
+    @*@Html.Action("HeaderLinks", "Common")*@
+</ul>
+

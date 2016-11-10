@@ -3,9 +3,10 @@
 <div class="header-links">
     <ul class="pull-right">
         @Html.Widget("header_links_before")
-        @if (Model.IsAuthenticated) 
+        @if (Model.IsAuthenticated)
         {
-            <li><a href="@Url.RouteUrl("CustomerInfo")" class="ico-account"><b>@T("Quản Trị Viên")</b>(@Model.CustomerEmailUsername)</a></li>
+            //(@Model.CustomerEmailUsername)
+            <li><a class="ico-account"><b>@T("Quản Trị Viên")</b></a></li>
             <li><a href="@Url.RouteUrl("Logout")" class="ico-logout">@T("Account.Logout")</a></li>
         }
         else
@@ -13,7 +14,6 @@
            @* <li><a href="@Url.RouteUrl("Register")" class="ico-register">@T("Account.Register")</a></li>*@
             <li><a href="@Url.RouteUrl("Login")" class="ico-login">@T("Account.Login")</a></li>
         }
- 
         @Html.Widget("header_links_after")
     </ul>
     @if (Model.AllowPrivateMessages && !string.IsNullOrEmpty(Model.AlertMessage))

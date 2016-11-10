@@ -5086,8 +5086,8 @@ pre {
 .header-menu {
 	position: relative;
 	z-index: 1;
-	width: 90%;
-	max-width: 600px;
+	/*width: 90%;*/
+	/*max-width: 600px;*/
 	margin: 0 auto 40px;
 }
 .menu-toggle {

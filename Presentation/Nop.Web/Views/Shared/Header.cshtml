@@ -3,13 +3,10 @@
     <div class="header-upper">
         <div class="header-selectors-wrapper">
             @Html.Action("TaxTypeSelector", "Common")
-            @Html.Action("LanguageSelector", "Common")
-             @Html.Action("HeaderLinks", "Common")
+            @Html.Action("Page", "Common")
             @Html.Widget("header_selectors")
-        </div>
-        <div class="header-links-wrapper">
-         
-            @Html.Action("FlyoutShoppingCart", "ShoppingCart")
+            @Html.Action("HeaderLinks", "Common")
+            @Html.Action("LanguageSelector", "Common")
         </div>
     </div>
     <div class="header-lower">
@@ -20,4 +17,3 @@
            @Html.Action("SearchBox", "Catalog")
         </div>
     </div>
-</div>

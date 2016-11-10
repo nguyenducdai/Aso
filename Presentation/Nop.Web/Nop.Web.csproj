@@ -1011,6 +1011,7 @@
     <Content Include="Views\Vendor\Info.cshtml" />
     <Content Include="Views\Common\Logo.cshtml" />
     <Content Include="Service References\WebHooks\ConnectedService.json" />
+    <Content Include="Views\Common\Page.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Plugins\bin\" />
